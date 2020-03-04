@@ -1,18 +1,2 @@
 *.class
 *.exe
-Solution.java
-banker's algorithm.java
-bfs_dfs.java
-diningPhilosopher.java
-dining_philo.cpp
-fixture.cpp
-graph.java
-kth_smallest_element.java
-kth_smallest_element_union_array
-kth_smallest_element_union_array.java
-linked_list.java
-longest_common_subsequence.java
-lru_page_replacement.cpp
-matrix_chain_multiplication.cpp
-shortest_job_first.java
-ugly_numbers.java
